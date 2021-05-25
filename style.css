@@ -1,0 +1,38 @@
+body {
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    background-color: BurlyWood;
+  }
+  
+  h2 {
+    color: Brown;
+  }
+  
+  table {
+    border-top-color: tomato;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-right-color: tomato;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-bottom-color: tomato;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-left-color: tomato;
+    border-left-style: solid;
+    border-left-width: 2px;
+  }
+  
+  th {
+    color: brown;
+    background-color: wheat;
+  }
+  
+  td {
+    border-top: 1px solid tomato;
+  }
+  
+  .code {
+    font-family: "Courier New";
+    background-color: wheat;
+    font-weight: bold;
+  }
